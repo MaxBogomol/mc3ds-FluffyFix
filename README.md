@@ -1,4 +1,9 @@
-# [mc3ds-modern](https://github.com/wyndchyme/mc3ds-modern) fix
+# About:
+
+This is a list of some fixes for Minecraft: New Nintendo 3DS Edition mods.  
+These are all just my personal preferences and are completely optional.  
+
+# [mc3ds-modern](https://github.com/wyndchyme/mc3ds-modern) fix:
 
 This fix returns the Russian language and removes strangely replaced blocks.
 
