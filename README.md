@@ -12,6 +12,5 @@ Delete these files:
 `sd:/luma/titles/%title%/romfs/loc/en_US-pocket.blang`  
 `sd:/luma/titles/%title%/romfs/loc/ru_RU-pocket.blang`  
 `sd:/Minecraft 3DS/scripts/Megapack Block Names.lua`  
-`sd:/Minecraft 3DS/scripts/Megapack Block Names.lua`  
 `sd:/Minecraft 3DS/scripts/Megapack recipes.lua`  
 `sd:/Minecraft 3DS/scripts/megapack creative inventory.lua`  
